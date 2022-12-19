@@ -1,1 +1,19 @@
-{}
+{
+  "name": "cache_dependencies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/31hsahbus/cache_dependencies.git"
+  },
+  "author": "subhash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/31hsahbus/cache_dependencies/issues"
+  },
+  "homepage": "https://github.com/31hsahbus/cache_dependencies#readme",
+  "description": ""
+}
